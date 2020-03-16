@@ -1,6 +1,6 @@
 *{margin: 0;padding: 0;}
 body{width: 1300px;height: auto;margin: 0 auto;}
-.A{height: 345px;width: 1300px;float: left;background-image: url('../images/a3.jpg');}
+.A{height: 345px;width: 1300px;float: left;background-image: url('./images/a3.jpg');}
 .aa{width: 150px;height: 150px;border-radius: 75px;overflow: hidden;background-color: royalblue;float: left;margin: 100px 0 0 575px;}
 .a1{width: 1300px;height: 50px;line-height: 50px;font-size: 30px;text-align: center;float: left;letter-spacing: 2px;color: #ffffff;}
 .a2{width: 1300px;height: 50px;line-height: 50px;font-size: 12px;text-align: center;float: left;color: #ffffff;}
